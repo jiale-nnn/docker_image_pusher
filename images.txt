@@ -1,2 +1,1 @@
-elasticsearch/elasticsearch:8.10.2
-
+ elasticsearch:8.10.2

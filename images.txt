@@ -1,1 +1,1 @@
- elasticsearch/elasticsearch:8.10.2
+ openmetadata/ingestion:1.3.4
